@@ -6,6 +6,8 @@ public class _02Variables {
 
 //-                                Variables are named memory allocations that store values / states.
 
+//-                                In Java there are familes of variables, primitive and object
+
 //-                                Variables have to be 'declared' before they can store data.
 
 
@@ -51,8 +53,6 @@ public class _02Variables {
 //`                  Identify the NAME in this variable declaration
 
        int phoneNumber = 5555555;
-
-
 
 
 
