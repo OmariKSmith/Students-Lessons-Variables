@@ -11,10 +11,6 @@ class Cake {
 
     //price
 
-
-
-
-
     //itemNumber
 
 }
