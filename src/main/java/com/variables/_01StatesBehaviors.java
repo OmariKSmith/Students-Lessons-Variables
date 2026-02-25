@@ -2,7 +2,7 @@ package com.variables;
 
 public class _01StatesBehaviors {
 /*
--                               All programs have two basic attributes:
+-                               All programs (classes) have two basic attributes:
 
 `                                   1. Program State  (variables)
 

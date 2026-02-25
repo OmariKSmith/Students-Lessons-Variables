@@ -6,7 +6,7 @@ public class _02Variables {
 
 //-                                Variables are named memory allocations that store values / states.
 
-//-                                In Java there are familes of variables, primitive and object
+//-                                In Java there are two familes of variables, primitive and object
 
 //-                                Variables have to be 'declared' before they can store data.
 
@@ -29,9 +29,11 @@ public class _02Variables {
 `                  (Must start with letter, underscore, or dollar sign)
 
 `      ASSIGNMENT
-`      OPERATOR:   Sets the variable equal to the literal Value
+`      OPERATOR:   Sets the variable reference on the left equal to the literal value on the right
 
 `      LITERAL:    A single value you want the variable to hold or store
+`
+`                  Variable names  can only start with _, $, alphanumeric characters
 
 
 */
